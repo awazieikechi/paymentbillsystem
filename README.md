@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Simple Bill Payments System API
 
 ## Project Description
@@ -84,5 +84,5 @@ https://www.postman.com/martian-rocket-9611/workspace/easybill/collection/567165
 - GET /api/v1/transactions/{transaction}
 - PUT /api/v1/transactions/{transaction}
 - DELETE /api/v1/transactions/{transaction}
-=======
+
 
