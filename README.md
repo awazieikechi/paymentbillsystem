@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple Bill Payments System API
 
 ## Project Description
@@ -83,3 +84,7 @@ https://www.postman.com/martian-rocket-9611/workspace/easybill/collection/567165
 - GET /api/v1/transactions/{transaction}
 - PUT /api/v1/transactions/{transaction}
 - DELETE /api/v1/transactions/{transaction}
+=======
+# paymentbillsystem
+a simple RESTful API for managing a simple bill payments system, having just the USERS and TRANSACTIONS table:
+>>>>>>> e0c66ddc009dbaaf8c275c9c7036e07c761d29a5
